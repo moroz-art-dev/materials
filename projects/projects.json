@@ -1,0 +1,41 @@
+{
+  "title": "Projects",
+  "list": [
+    {
+      "title": "News",
+      "description": "News App is a news retrieval application powered by an API. It allows users to customize their news query using a user-friendly form and displays two blocks of news content. Users have the flexibility to define their news preferences and the application fetches relevant news articles based on their inputs. The app provides an intuitive way to access and consume news information while offering customization options to tailor the news experience to individual preferences.",
+      "technologies": "React, React DOM, React Hook Form, Axios, MobX, MobX React Lite, FontAwesome, Tailwind CSS, React HTML Parser, and Vite.",
+      "imagesSrc": ["news_app.png"],
+      "url": "https://github.com/moroz-art-dev/news-app",
+      "demo": "https://news-app-eight-amber.vercel.app"
+    },
+    {
+      "title": "Little Lemon",
+      "description": "The project includes a landing page and reservation form for a restaurant, providing essential information and enabling easy table bookings.",
+      "technologies": "React, React Router, React Router DOM, Formik, Prop Types, React Icons, React Modal, React Scroll, React Select, React Transition Group, Yup.",
+      "imagesSrc": [
+        "little_lemon_1.png",
+        "little_lemon_2.png",
+        "little_lemon_3.png"
+      ],
+      "url": "https://github.com/moroz-art-dev/little-lemon",
+      "demo": "https://moroz-art-dev.github.io/little-lemon/"
+    },
+    {
+      "title": "Live Search",
+      "description": "Live search is a small project that consists of a search input field and a dynamic list of results fetched from an API. It allows users to quickly search for content by typing in their query and instantly see the corresponding results. The project leverages an API to retrieve data that matches the user's input, updating the result list in real time. Live search provides a convenient and efficient way for users to find relevant information without the need for page reloads or manual updates.",
+      "technologies": "Next.js 13, TypeScript, MUI, and Redux Toolkit",
+      "imagesSrc": ["live_search.png"],
+      "url": "https://github.com/moroz-art-dev/live-search",
+      "demo": "https://live-search-kappa.vercel.app"
+    },
+    {
+      "title": "Portfolio",
+      "description": "Welcome to my portfolio! Here, I showcase my projects and achievements in software development.",
+      "technologies": "React, React Slick, Chakra UI, Formik, Yup",
+      "imagesSrc": ["portfolio.png"],
+      "url": "https://github.com/moroz-art-dev/portfolio",
+      "demo": "https://https://moroz-art-dev.github.io/portfolio/"
+    }
+  ]
+}
