@@ -1,70 +1,73 @@
 {
-	"Front-end Development": {
-		"Languages": {
-			"HTML": true,
-			"CSS": true,
-			"JavaScript": true,
-			"TypeScript": true
+	"title": "Stack list:",
+	"list": {
+		"Front-end Development": {
+			"Languages": {
+				"HTML": true,
+				"CSS": true,
+				"JavaScript": true,
+				"TypeScript": true
+			},
+			"Frameworks & Libraries": {
+				"React": true,
+				"Redux": true,
+				"Redux Toolkit": true,
+				"MobX": true,
+				"React Hooks": true,
+				"React Hook Form": true,
+				"Next.js": true
+			},
+			"Other Frontend Technologies": {
+				"XML": true,
+				"HTML5": true,
+				"SASS": true,
+				"SCSS": true,
+				"CamelCase": true,
+				"BEM": true
+			}
 		},
-		"Frameworks & Libraries": {
-			"React": true,
-			"Redux": true,
-			"Redux Toolkit": true,
-			"MobX": true,
-			"React Hooks": true,
-			"React Hook Form": true,
-			"Next.js": true
+		"JavaScript Tools & Libraries": {
+			"Promises": true,
+			"Async/await": true,
+			"JSON": true,
+			"ES6+": true,
+			"Fetch": true,
+			"Axios": true,
+			"Jest": true
 		},
-		"Other Frontend Technologies": {
-			"XML": true,
-			"HTML5": true,
-			"SASS": true,
-			"SCSS": true,
-			"CamelCase": true,
-			"BEM": true
+		"UI Libraries and Frameworks": {
+			"MUI (Material-UI)": true,
+			"MaterializeCSS": true,
+			"Bootstrap": true,
+			"Foundation": true,
+			"Chakra UI": true
+		},
+		"Content Management Systems & E-commerce": {
+			"Bitrix": true,
+			"Bitrix API": true,
+			"WordPress": true,
+			"OpenCart": true,
+			"Joomla": true
+		},
+		"Developer Tools & Deployment": {
+			"GooglePageSpeed Tools": true,
+			"Chrome/React/Redux DevTools": true,
+			"Remmina": true,
+			"FileZilla": true,
+			"Bash": true,
+			"Photoshop": true,
+			"Figma": true,
+			"Gimp": true,
+			"Git": true,
+			"GitHub": true,
+			"ESLint": true,
+			"Stylelint": true,
+			"Prettier": true,
+			"GPT-3": true,
+			"Vercel": true,
+			"Webpack": true,
+			"npm": true,
+			"yarn": true
 		}
-	},
-	"JavaScript Tools & Libraries": {
-		"Promises": true,
-		"Async/await": true,
-		"JSON": true,
-		"ES6+": true,
-		"Fetch": true,
-		"Axios": true,
-		"Jest": true
-	},
-	"UI Libraries and Frameworks": {
-		"MUI (Material-UI)": true,
-		"MaterializeCSS": true,
-		"Bootstrap": true,
-		"Foundation": true,
-		"Chakra UI": true
-	},
-	"Content Management Systems & E-commerce": {
-		"Bitrix": true,
-		"Bitrix API": true,
-		"WordPress": true,
-		"OpenCart": true,
-		"Joomla": true
-	},
-	"Developer Tools & Deployment": {
-		"GooglePageSpeed Tools": true,
-		"Chrome/React/Redux DevTools": true,
-		"Remmina": true,
-		"FileZilla": true,
-		"Bash": true,
-		"Photoshop": true,
-		"Figma": true,
-		"Gimp": true,
-		"Git": true,
-		"GitHub": true,
-		"ESLint": true,
-		"Stylelint": true,
-		"Prettier": true,
-		"GPT-3": true,
-		"Vercel": true,
-		"Webpack": true,
-		"npm": true,
-		"yarn": true
 	}
 }
