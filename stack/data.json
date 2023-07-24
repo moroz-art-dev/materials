@@ -1,73 +1,74 @@
 {
 	"title": "Stack list:",
+	"imageBaseUrl": "https://raw.githubusercontent.com/moroz-art-dev/materials/main/stack/images/",
 	"list": {
 		"Front-end Development": {
 			"Languages": {
-				"HTML": true,
-				"CSS": true,
-				"JavaScript": true,
-				"TypeScript": true
+				"HTML": "html.svg",
+				"CSS": "css.svg",
+				"JavaScript": "javascript.svg",
+				"TypeScript": "typescript.svg"
 			},
 			"Frameworks & Libraries": {
-				"React": true,
-				"Redux": true,
+				"React": "react.svg",
+				"Redux": "redux.svg",
 				"Redux Toolkit": true,
-				"MobX": true,
+				"MobX": "mobx.svg",
 				"React Hooks": true,
 				"React Hook Form": true,
-				"Next.js": true
+				"Next.js": "next.svg"
 			},
 			"Other Frontend Technologies": {
-				"XML": true,
+				"XML": "xml.svg",
 				"HTML5": true,
-				"SASS": true,
-				"SCSS": true,
-				"CamelCase": true,
-				"BEM": true
+				"SASS": "sass.svg",
+				"SCSS": "scss",
+				"CamelCase": "camel.svg",
+				"BEM": "bem.svg"
 			}
 		},
 		"JavaScript Tools & Libraries": {
-			"Promises": true,
+			"Promises": "promises.svg",
 			"Async/await": true,
-			"JSON": true,
-			"ES6+": true,
+			"JSON": "json.svg",
+			"ES6+": "es6.svg",
 			"Fetch": true,
-			"Axios": true,
-			"Jest": true
+			"Axios": "axios.svg",
+			"Jest": "jest.svg"
 		},
 		"UI Libraries and Frameworks": {
-			"MUI (Material-UI)": true,
-			"MaterializeCSS": true,
-			"Bootstrap": true,
-			"Foundation": true,
-			"Chakra UI": true
+			"MUI (Material-UI)": "mui.svg",
+			"MaterializeCSS": "materialize.svg",
+			"Bootstrap": "bootstrap.svg",
+			"Foundation": "foundation.svg",
+			"Chakra UI": "chakra.svg"
 		},
 		"Content Management Systems & E-commerce": {
-			"Bitrix": true,
+			"Bitrix": "bitrix.svg",
 			"Bitrix API": true,
-			"WordPress": true,
-			"OpenCart": true,
-			"Joomla": true
+			"WordPress": "wordpress.svg",
+			"OpenCart": "opencart.svg",
+			"Joomla": "joomla.svg"
 		},
 		"Developer Tools & Deployment": {
-			"GooglePageSpeed Tools": true,
-			"Chrome/React/Redux DevTools": true,
-			"Remmina": true,
-			"FileZilla": true,
-			"Bash": true,
-			"Photoshop": true,
-			"Figma": true,
-			"Gimp": true,
-			"Git": true,
-			"GitHub": true,
-			"ESLint": true,
-			"Stylelint": true,
-			"Prettier": true,
-			"GPT-3": true,
-			"Vercel": true,
-			"Webpack": true,
-			"npm": true,
-			"yarn": true
+			"GooglePageSpeed Tools": "pagespeed.svg",
+			"Chrome/React/Redux DevTools": "dev.svg",
+			"Remmina": "remmina.svg",
+			"FileZilla": "filezilla.svg",
+			"Bash": "bash.svg",
+			"Photoshop": "photoshop.svg",
+			"Figma": "figma.svg",
+			"Gimp": "gimp.svg",
+			"Git": "git.svg",
+			"GitHub": "github.svg",
+			"ESLint": "eslint.svg",
+			"Stylelint": "stylelint.svg",
+			"Prettier": "prettier.svg",
+			"GPT-3": "gpt.svg",
+			"Vercel": "vercel.svg",
+			"Webpack": "webpack.svg",
+			"npm": "npm.svg",
+			"yarn": "yarn.svg"
 		}
 	}
 }
