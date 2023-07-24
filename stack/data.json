@@ -22,7 +22,7 @@
 				"XML": "xml.svg",
 				"HTML5": true,
 				"SASS": "sass.svg",
-				"SCSS": "scss",
+				"SCSS": "scss.svg",
 				"CamelCase": "camel.svg",
 				"BEM": "bem.svg"
 			}
