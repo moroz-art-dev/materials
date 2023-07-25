@@ -6,7 +6,7 @@
 			"Languages": {
 				"HTML": "html.svg",
 				"CSS": "css.svg",
-				"JavaScript": "javascript.svg",
+				"JavaScript": "js.svg",
 				"TypeScript": "typescript.svg"
 			},
 			"Frameworks & Libraries": {
@@ -27,14 +27,36 @@
 				"BEM": "bem.svg"
 			}
 		},
-		"JavaScript Tools & Libraries": {
-			"Promises": "promises.svg",
-			"Async/await": true,
-			"JSON": "json.svg",
-			"ES6+": "es6.svg",
-			"Fetch": true,
-			"Axios": "axios.svg",
-			"Jest": "jest.svg"
+		"": {
+			"JavaScript Tools & Libraries": {
+				"Promises": "promises.svg",
+				"Async/await": true,
+				"JSON": "json.svg",
+				"ES6+": "es6.svg",
+				"Fetch": true,
+				"Axios": "axios.svg",
+				"Jest": "jest.svg"
+			},
+			"Developer Tools & Deployment": {
+				"GooglePageSpeed Tools": "pagespeed.svg",
+				"Chrome/React/Redux DevTools": "dev.svg",
+				"Remmina": "remmina.svg",
+				"FileZilla": "filezilla.svg",
+				"Bash": "bash.svg",
+				"Photoshop": "photoshop.svg",
+				"Figma": "figma.svg",
+				"Gimp": "gimp.svg",
+				"Git": "git.svg",
+				"GitHub": "github.svg",
+				"ESLint": "eslint.svg",
+				"Stylelint": "stylelint.svg",
+				"Prettier": "prettier.svg",
+				"GPT-3": "gpt.svg",
+				"Vercel": "vercel.svg",
+				"Webpack": "webpack.svg",
+				"npm": "npm.svg",
+				"yarn": "yarn.svg"
+			}
 		},
 		"UI Libraries and Frameworks": {
 			"MUI (Material-UI)": "mui.svg",
@@ -49,26 +71,6 @@
 			"WordPress": "wordpress.svg",
 			"OpenCart": "opencart.svg",
 			"Joomla": "joomla.svg"
-		},
-		"Developer Tools & Deployment": {
-			"GooglePageSpeed Tools": "pagespeed.svg",
-			"Chrome/React/Redux DevTools": "dev.svg",
-			"Remmina": "remmina.svg",
-			"FileZilla": "filezilla.svg",
-			"Bash": "bash.svg",
-			"Photoshop": "photoshop.svg",
-			"Figma": "figma.svg",
-			"Gimp": "gimp.svg",
-			"Git": "git.svg",
-			"GitHub": "github.svg",
-			"ESLint": "eslint.svg",
-			"Stylelint": "stylelint.svg",
-			"Prettier": "prettier.svg",
-			"GPT-3": "gpt.svg",
-			"Vercel": "vercel.svg",
-			"Webpack": "webpack.svg",
-			"npm": "npm.svg",
-			"yarn": "yarn.svg"
 		}
 	}
 }
