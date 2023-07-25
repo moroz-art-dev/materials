@@ -23,7 +23,7 @@
 				"HTML5": true,
 				"SASS": "sass.svg",
 				"SCSS": "scss.svg",
-				"CamelCase": "camel.svg",
+				"CamelCase": true,
 				"BEM": "bem.svg"
 			}
 		},
