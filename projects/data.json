@@ -7,7 +7,7 @@
       "description": "This is a React project designed for filtering and sorting flight tickets. The application provides a user-friendly interface to view, filter, and sort flight tickets based on various criteria.",
       "technologies": "React, Redux Toolkit, Sass, TypeScript, React Router, i18next, Classnames and Lodash.",
       "imagesSubcategorySrc": "flight-tickets-filter/main/screenshots/",
-      "imagesSrc": ["screenshot_1.png", "screenshot_2.png", "screenshot_3.png"],
+      "imagesSrc": ["screenshot_1.png", "screenshot_2.png"],
       "url": "https://github.com/moroz-art-dev/flight-tickets-filter",
       "demo": "https://moroz-art-dev.github.io/flight-tickets-filter/"
     },
