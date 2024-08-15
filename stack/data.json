@@ -1,8 +1,8 @@
 {
   "title": "Stack list:",
   "imageBaseUrl": "https://raw.githubusercontent.com/moroz-art-dev/materials/main/stack/images/",
-  "list": {
-    "Front-end Development": {
+  "list": [
+    {
       "Languages": {
         "HTML": "html.svg",
         "CSS": "css.svg",
@@ -27,7 +27,7 @@
         "BEM": "bem.svg"
       }
     },
-    "": {
+    {
       "JavaScript Tools & Libraries": {
         "Promises": "promises.svg",
         "Async/await": "true",
@@ -58,19 +58,23 @@
         "yarn": "yarn.svg"
       }
     },
-    "UI Libraries and Frameworks": {
-      "MUI (Material-UI)": "mui.svg",
-      "MaterializeCSS": "materialize.svg",
-      "Bootstrap": "bootstrap.svg",
-      "Foundation": "foundation.svg",
-      "Chakra UI": "chakra.svg"
+    {
+      "UI Libraries and Frameworks": {
+        "MUI (Material-UI)": "mui.svg",
+        "MaterializeCSS": "materialize.svg",
+        "Bootstrap": "bootstrap.svg",
+        "Foundation": "foundation.svg",
+        "Chakra UI": "chakra.svg"
+      }
     },
-    "Content Management Systems & E-commerce": {
-      "Bitrix": "bitrix.svg",
-      "Bitrix API": "true",
-      "WordPress": "wordpress.svg",
-      "OpenCart": "opencart.svg",
-      "Joomla": "joomla.svg"
+    {
+      "Content Management Systems & E-commerce": {
+        "Bitrix": "bitrix.svg",
+        "Bitrix API": "true",
+        "WordPress": "wordpress.svg",
+        "OpenCart": "opencart.svg",
+        "Joomla": "joomla.svg"
+      }
     }
-  }
+  ]
 }
