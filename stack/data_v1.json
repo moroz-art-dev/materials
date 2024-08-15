@@ -1,0 +1,103 @@
+{
+  "title": "Stack list:",
+  "imageBaseUrl": "https://raw.githubusercontent.com/moroz-art-dev/materials/main/stack/images/",
+  "list": [
+    {
+      "Core Technologies": {
+        "HTML": "html.svg",
+        "CSS": "css.svg",
+        "JavaScript": "js.svg",
+        "TypeScript": "typescript.svg",
+        "SASS": "sass.svg",
+        "SCSS": "scss.svg",
+        "Less": "less.svg",
+        "BEM": "bem.svg",
+        "XML": "xml.svg"
+      }
+    },
+    {
+      "Frameworks & Libraries": {
+        "React": "react.svg",
+        "Redux": "redux.svg",
+        "RTK Query": "redux.svg",
+        "Redux Saga": "redux-saga.svg",
+        "Redux Thunk": "redux.svg",
+        "MobX": "mobx.svg",
+        "React Hook Form": "react-hook-form.svg",
+        "Formik": "formik.svg",
+        "Next.js": "next.svg"
+      }
+    },
+    {
+      "JavaScript Ecosystem": {
+        "ES6+": "es6.svg",
+        "Promises": "promises.svg",
+        "JSON": "json.svg",
+        "Axios": "axios.svg",
+        "Jest": "jest.svg",
+        "i18next": "i18next.svg",
+        "next-intl": "next-intl.svg",
+        "Lodash": "lodash.svg"
+      }
+    },
+    {
+      "UI Libraries": {
+        "Ant Design": "antd.svg",
+        "MUI (Material-UI)": "mui.svg",
+        "MaterializeCSS": "materialize.svg",
+        "Bootstrap": "bootstrap.svg",
+        "Foundation": "foundation.svg",
+        "Chakra UI": "chakra.svg"
+      }
+    },
+    {
+      "Developer Tools": {
+        "Git": "git.svg",
+        "GitHub": "github.svg",
+        "GitLab": "gitlab.svg",
+        "npm": "npm.svg",
+        "yarn": "yarn.svg",
+        "Webpack": "webpack.svg",
+        "Create React App": "cra.svg",
+        "CRACO": "craco.svg",
+        "ESLint": "eslint.svg",
+        "Stylelint": "stylelint.svg",
+        "Prettier": "prettier.svg",
+        "Vercel": "vercel.svg",
+        "Chrome/React/Redux DevTools": "dev.svg",
+        "Google PageSpeed Insights": "pagespeed.svg",
+        "Storybook": "storybook.svg"
+      }
+    },
+    {
+      "Design & Prototyping": {
+        "Figma": "figma.svg",
+        "Adobe Photoshop": "photoshop.svg",
+        "GIMP": "gimp.svg"
+      }
+    },
+    {
+      "CMS & E-commerce": {
+        "Bitrix": "bitrix.svg",
+        "WordPress": "wordpress.svg",
+        "OpenCart": "opencart.svg",
+        "Joomla": "joomla.svg"
+      }
+    },
+    {
+      "Backend Technologies": {
+        "PHP": "php.svg",
+        "Node.js": "node.svg"
+      }
+    },
+    {
+      "Other Tools": {
+        "Remmina": "remmina.svg",
+        "FileZilla": "filezilla.svg",
+        "Bash": "bash.svg",
+        "GPT-3": "gpt.svg",
+        "Claude.ai": "claudeai.svg"
+      }
+    }
+  ]
+}
