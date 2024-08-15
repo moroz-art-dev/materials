@@ -1,1 +1,12 @@
-<svg aria-label="next-intl logo" class="h-8" viewBox="0 0 1663.8 399" xmlns="http://www.w3.org/2000/svg"><g><g><path d="M528.8,509q-6.3,6-13.2,11.4a190,190,0,1,1,38-40.2" fill="none" stroke="#5fc3e7" stroke-width="18" transform="translate(-197.5 -171.5)"></path><circle cx="329.2" cy="339.5" fill="#5fc3e7" r="9"></circle><line fill="none" stroke="#5fc3e7" stroke-linecap="square" stroke-width="18" x1="40" x2="353.5" y1="105" y2="105.5"></line><ellipse cx="202" cy="199.5" fill="none" rx="93.5" ry="190.5" stroke="#5fc3e7" stroke-width="18"></ellipse><line fill="none" stroke="#5fc3e7" stroke-linecap="square" stroke-width="18" x1="49.5" x2="353.5" y1="304.5" y2="304.5"></line><line fill="none" stroke="#5fc3e7" stroke-linecap="square" stroke-width="18" x1="9" x2="389" y1="206" y2="206"></line></g></g></svg>
+<svg aria-label="next-intl logo" viewBox="0 0 399 399" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <g>
+      <path d="M528.8,509q-6.3,6-13.2,11.4a190,190,0,1,1,38-40.2" fill="none" stroke="#5fc3e7" stroke-width="18" transform="translate(-197.5 -171.5)"></path>
+      <circle cx="329.2" cy="339.5" fill="#5fc3e7" r="9"></circle>
+      <line fill="none" stroke="#5fc3e7" stroke-linecap="square" stroke-width="18" x1="40" x2="353.5" y1="105" y2="105.5"></line>
+      <ellipse cx="202" cy="199.5" fill="none" rx="93.5" ry="190.5" stroke="#5fc3e7" stroke-width="18"></ellipse>
+      <line fill="none" stroke="#5fc3e7" stroke-linecap="square" stroke-width="18" x1="49.5" x2="353.5" y1="304.5" y2="304.5"></line>
+      <line fill="none" stroke="#5fc3e7" stroke-linecap="square" stroke-width="18" x1="9" x2="389" y1="206" y2="206"></line>
+    </g>
+  </g>
+</svg>
