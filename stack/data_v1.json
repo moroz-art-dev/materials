@@ -87,7 +87,12 @@
     {
       "Backend Technologies": {
         "PHP": "php.svg",
-        "Node.js": "node.svg"
+        "Node.js": "node.svg",
+        "Express.js": "express.svg",
+        "MongoDB": "mongo.svg",
+        "SQL": "sql.svg",
+        "MySQL": "mysql.svg",
+        "REST API": "restapi.svg"
       }
     },
     {
