@@ -17,6 +17,7 @@
     },
     {
       "Frameworks & Libraries": {
+        "Next.js": "next.svg",
         "React": "react.svg",
         "Redux": "redux.svg",
         "RTK Query": "redux.svg",
@@ -25,7 +26,7 @@
         "MobX": "mobx.svg",
         "React Hook Form": "react-hook-form.svg",
         "Formik": "formik.svg",
-        "Next.js": "next.svg"
+        "Yup": "yup.svg"
       }
     },
     {
@@ -47,7 +48,9 @@
         "MaterializeCSS": "materialize.svg",
         "Bootstrap": "bootstrap.svg",
         "Foundation": "foundation.svg",
-        "Chakra UI": "chakra.svg"
+        "Chakra UI": "chakra.svg",
+        "Tailwind CSS": "tailwind-css.svg",
+        "FontAwesome": "fontawesome.svg"
       }
     },
     {
@@ -60,6 +63,7 @@
         "Webpack": "webpack.svg",
         "Create React App": "cra.svg",
         "CRACO": "craco.svg",
+        "Vite": "vite.svg",
         "ESLint": "eslint.svg",
         "Stylelint": "stylelint.svg",
         "Prettier": "prettier.svg",
