@@ -1,0 +1,240 @@
+{
+  "title": {
+    "en": "Certificates",
+    "uk": "Сертифікати",
+    "ru": "Сертификаты"
+  },
+  "imageBaseUrl": "https://raw.githubusercontent.com/moroz-art-dev/materials/main/certificates/images/",
+  "list": [
+    {
+      "icon": "Meta",
+      "name": {
+        "en": "Meta Front-End Developer",
+        "uk": "Розробник Front-End у Meta",
+        "ru": "Front-End разработчик в Meta"
+      },
+      "imageSrc": "meta_front_end_developer.png",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/certificate/H7PBQH8AWD6W"
+    },
+    {
+      "icon": "Meta",
+      "name": {
+        "en": "Coding Interview Preparation",
+        "uk": "Підготовка до співбесіди з кодування",
+        "ru": "Подготовка к собеседованию по программированию"
+      },
+      "imageSrc": "coding_interview_preparation.png",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/RFN3742YVMV4"
+    },
+    {
+      "icon": "Meta",
+      "name": {
+        "en": "Front-End Developer Capstone",
+        "uk": "Завершальний проект Front-End розробника",
+        "ru": "Финальный проект Front-End разработчика"
+      },
+      "imageSrc": "front_end_developer_capstone.png",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/KYBVNGM9XQNY"
+    },
+    {
+      "icon": "Meta",
+      "name": {
+        "en": "Principles of UX/UI Design",
+        "uk": "Принципи дизайну UX/UI",
+        "ru": "Принципы UX/UI дизайна"
+      },
+      "imageSrc": "principles_of_ux_ui_design.png",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/4KS46KG52KVU"
+    },
+    {
+      "icon": "Meta",
+      "name": {
+        "en": "Advanced React",
+        "uk": "Поглиблений React",
+        "ru": "Продвинутый React"
+      },
+      "imageSrc": "advanced_react.png",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/L5BJQ3U56DMK"
+    },
+    {
+      "icon": "Meta",
+      "name": {
+        "en": "React Basics",
+        "uk": "Основи React",
+        "ru": "Основы React"
+      },
+      "imageSrc": "react_basics.png",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/K3ZDJ5W6GG3E"
+    },
+    {
+      "icon": "Meta",
+      "name": {
+        "en": "HTML and CSS in depth",
+        "uk": "Поглиблене HTML і CSS",
+        "ru": "Углубленное изучение HTML и CSS"
+      },
+      "imageSrc": "html_and_css_in_depth.png",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/NEAL56TSQFPU"
+    },
+    {
+      "icon": "Meta",
+      "name": {
+        "en": "Version Control",
+        "uk": "Системи контролю версій",
+        "ru": "Системы контроля версий"
+      },
+      "imageSrc": "version_control.png",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/DDYN2LYJDRLN"
+    },
+    {
+      "icon": "Meta",
+      "name": {
+        "en": "Programming with JavaScript",
+        "uk": "Програмування на JavaScript",
+        "ru": "Программирование на JavaScript"
+      },
+      "imageSrc": "programming_with_javascript.png",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/6FEFPJY6LH79"
+    },
+    {
+      "icon": "Meta",
+      "name": {
+        "en": "Introduction to Front-End Development",
+        "uk": "Вступ до розробки Front-End",
+        "ru": "Введение в Front-End разработку"
+      },
+      "imageSrc": "introduction_to_front_end_development.png",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/XQ2DR7ESJG2X"
+    },
+    {
+      "icon": "Ibm",
+      "name": {
+        "en": "Developing Front-End Apps with React",
+        "uk": "Розробка Front-End додатків з React",
+        "ru": "Разработка Front-End приложений с React"
+      },
+      "imageSrc": "developing_front_end_apps_with_react.png",
+      "url": "https://www.coursera.org/account/accomplishments/certificate/Y23SMZEAHKJX"
+    },
+    {
+      "icon": "Scrimba",
+      "name": {
+        "en": "Learn TypeScript",
+        "uk": "Вивчення TypeScript",
+        "ru": "Изучение TypeScript"
+      },
+      "imageSrc": "scrimba_learn_typescript.png",
+      "url": "https://www.coursera.org/account/accomplishments/records/WU73VFG72LF5"
+    },
+    {
+      "icon": "Scrimba",
+      "name": {
+        "en": "Building Reusable React",
+        "uk": "Створення багаторазового React",
+        "ru": "Создание многоразового React"
+      },
+      "imageSrc": "scrimba_building_reusable_react.png",
+      "url": "https://www.coursera.org/account/accomplishments/records/WAPXWHKHWAEJ"
+    },
+    {
+      "icon": "Scrimba",
+      "name": {
+        "en": "Learn Advanced React",
+        "uk": "Вивчення просунутого React",
+        "ru": "Изучение продвинутого React"
+      },
+      "imageSrc": "scrimba_learn_advanced_react.png",
+      "url": "https://www.coursera.org/account/accomplishments/records/BFQE5T33GR95"
+    },
+    {
+      "icon": "LinkedinIn",
+      "name": {
+        "en": "JavaScript - Patterns",
+        "uk": "JavaScript - Шаблони",
+        "ru": "JavaScript - Паттерны"
+      },
+      "imageSrc": "javascript_patterns.png",
+      "url": "https://www.linkedin.com/learning/certificates/3e0a088e4793884e31d0a40733a2e031f8b6d50b599a53fe9d969b858c9d0a8d?trk=share_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQC%2FBlY6bQvqWVLdiCYbs3w%3D%3D"
+    },
+    {
+      "icon": "LinkedinIn",
+      "name": {
+        "en": "Learning GraphQL",
+        "uk": "Вивчення GraphQL",
+        "ru": "Изучение GraphQL"
+      },
+      "imageSrc": "learning_graphql.png",
+      "url": "https://www.linkedin.com/learning/certificates/7beb59e349fa859ac92495626b7362c8f27fa0f88f6cf562878f9d774d672f6a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQC%2FBlY6bQvqWVLdiCYbs3w%3D%3D"
+    },
+    {
+      "icon": "LinkedinIn",
+      "name": {
+        "en": "Learning React",
+        "uk": "Вивчення React",
+        "ru": "Изучение React"
+      },
+      "imageSrc": "learning_react.png",
+      "url": "https://www.linkedin.com/learning/certificates/e6239c327909b2244aef04efe30963603001814ea5fba15b5f9c73f7cd80f225?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQC%2FBlY6bQvqWVLdiCYbs3w%3D%3D"
+    },
+    {
+      "icon": "LinkedIn",
+      "name": {
+        "en": "React Essential Training",
+        "uk": "Основи React",
+        "ru": "Основы React"
+      },
+      "imageSrc": "react_essential_training.png",
+      "url": "https://www.linkedin.com/learning/certificates/d117ece24b890a94a6c7eb98251b113d8dc4b866d1d33773b1123c63e3e213ca?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQC%2FBlY6bQvqWVLdiCYbs3w%3D%3D"
+    },
+    {
+      "icon": "LinkedIn",
+      "name": {
+        "en": "React - Ecosystems",
+        "uk": "React - Екосистеми",
+        "ru": "React - Экосистемы"
+      },
+      "imageSrc": "react_ecosystems.png",
+      "url": "https://www.linkedin.com/learning/certificates/979babaf84aa2890f2a52d2d3f391f5a69d90986df6cbcb1ae56418718c51201?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQC%2FBlY6bQvqWVLdiCYbs3w%3D%3D"
+    },
+    {
+      "icon": "LinkedIn",
+      "name": {
+        "en": "React - Using TypeScript",
+        "uk": "React - Використання TypeScript",
+        "ru": "React - Использование TypeScript"
+      },
+      "imageSrc": "react_using_typescript.png",
+      "url": "https://www.linkedin.com/learning/certificates/1ea270e8a850ccf02d6b420c620120e64cea81519f16dd174cb79ee09af807a2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQC%2FBlY6bQvqWVLdiCYbs3w%3D%3D"
+    },
+    {
+      "icon": "LinkedIn",
+      "name": {
+        "en": "React Hooks",
+        "uk": "React Hooks",
+        "ru": "React Hooks"
+      },
+      "imageSrc": "react_hooks.png",
+      "url": "https://www.linkedin.com/learning/certificates/69bebe37c197f7ff238acd5b59cfcd828ef9ca1b066ca852fe44a3ec99da6527?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQC%2FBlY6bQvqWVLdiCYbs3w%3D%3D"
+    },
+    {
+      "icon": "LinkedIn",
+      "name": {
+        "en": "Succeeding in Web Development: Full Stack and Front End",
+        "uk": "Успіхи у веб-розробці: Full Stack і Front End",
+        "ru": "Успехи в веб-разработке: Full Stack и Front End"
+      },
+      "imageSrc": "succeeding_in_web_development.png",
+      "url": "https://www.linkedin.com/learning/certificates/da8c298f00bcd3fb6ea3dbddcf2e67cc7cff88a8937b6f58ea26d77114dab403?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BQC%2FBlY6bQvqWVLdiCYbs3w%3D%3D"
+    },
+    {
+      "icon": "LinkedIn",
+      "name": {
+        "en": "React: Working with APIs",
+        "uk": "React: Робота з API",
+        "ru": "React: Работа с API"
+      },
+      "imageSrc": "react_working_with_apis.jpeg",
+      "url": "https://www.linkedin.com/learning/certificates/7132423fd92861da1f03333d624a09e3e2704027884de2f441f4f4b3e085e599"
+    }
+  ]
+}
