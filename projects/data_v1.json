@@ -59,7 +59,12 @@
         "SWR"
       ],
       "imagesSubcategorySrc": "frontend-portfolio/main/screenshots/",
-      "imagesSrc": [],
+      "imagesSrc": [
+        "screenshot_1.png",
+        "screenshot_2.png",
+        "screenshot_3.png",
+        "screenshot_4.png"
+      ],
       "url": "https://github.com/moroz-art-dev/frontend-portfolio",
       "demo": "https://moroz-art-dev.vercel.app"
     },
