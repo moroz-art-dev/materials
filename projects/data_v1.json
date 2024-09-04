@@ -34,6 +34,36 @@
       "demo": "https://moroz-art-dev.github.io/flight-tickets-filter/"
     },
     {
+      "id": "frontend-portfolio",
+      "title": {
+        "en": "Frontend Portfolio",
+        "uk": "Портфоліо Фронтенд",
+        "ru": "Портфолио Фронтенд"
+      },
+      "description": {
+        "en": "This is a personal portfolio built with Next.js to showcase my frontend development skills. The application includes projects, certifications, and technical expertise, and it is fully responsive and optimized for performance.",
+        "uk": "Це персональне портфоліо, створене на базі Next.js, для демонстрації моїх навичок фронтенд-розробки. Додаток містить проекти, сертифікати та технічну експертизу, і він повністю адаптований для різних пристроїв та оптимізований для продуктивності.",
+        "ru": "Это персональное портфолио, созданное на базе Next.js, для демонстрации моих навыков фронтенд-разработки. Приложение включает проекты, сертификаты и техническую экспертизу, полностью адаптировано для различных устройств и оптимизировано для производительности."
+      },
+      "technologies": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Chakra UI",
+        "SCSS",
+        "Axios",
+        "Lodash",
+        "Next-Intl",
+        "React Icons",
+        "React Query",
+        "SWR"
+      ],
+      "imagesSubcategorySrc": "frontend-portfolio/main/screenshots/",
+      "imagesSrc": [],
+      "url": "https://github.com/moroz-art-dev/frontend-portfolio",
+      "demo": "https://moroz-art-dev.vercel.app"
+    },
+    {
       "id": "news-app",
       "title": {
         "en": "News",
